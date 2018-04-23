@@ -18,7 +18,7 @@ a:hover {
 }
 
 .content {
-  margin: 9em 0 1em 5em;
+  margin: 9em 50% 1em 5em;
 }
 
 .name-wrapper {
@@ -45,7 +45,7 @@ a:hover {
 @media only screen
   and (max-width: 767px) {
     .content {
-      margin: 5em 0 1em 2em;
+      margin: 5em 2em 1em 2em;
     }
 
     .name {
