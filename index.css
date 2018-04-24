@@ -19,6 +19,7 @@ a:hover {
 
 .content {
   margin: 9em 50% 1em 5em;
+  text-align: justify;
 }
 
 .name-wrapper {
