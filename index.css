@@ -12,11 +12,6 @@ a:hover {
   cursor: pointer;
 }
 
-.em {
-  vertical-align: bottom;
-  margin-left: .4em;
-}
-
 .content {
   margin: 9em 50% 1em 5em;
   text-align: justify;
